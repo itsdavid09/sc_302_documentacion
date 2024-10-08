@@ -1,2 +1,3 @@
 console.log("holamundo")
-este es un ejercicio de uso de git y github
+console("David Urbina Jara")
+este es un ejercicio de git y github
